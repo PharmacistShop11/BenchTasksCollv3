@@ -1,0 +1,5 @@
+{
+  "task": "cms-builder",
+  "needed_mcp_servers": ["playwright", "github"],
+  "needed_local_tools": ["claim_done", "read_file", "write_file", "bash"]
+}
